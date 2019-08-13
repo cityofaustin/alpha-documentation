@@ -10,7 +10,6 @@
 - [Header external links](header_external_links.md) (Name WIP)
 - [Navigation Menu](navigation_menu.md) (Name WIP)
 - [URLs](urls.md)
-- Themes (Name WIP)
 - Homepage banner image (Name WIP)
 - Homepage banner(welcome) text (Name WIP)
 - Homepage top services (Name WIP)
@@ -23,3 +22,4 @@
 ## List of data? (Title WIP)
 
 - [Themes](themes.md) (Name WIP)
+- [Topic Collections](topic_collections.md) (Name WIP)

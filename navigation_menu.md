@@ -31,4 +31,4 @@ Janis (js) - [components/PageSections/Menu/FullSiteMenu.js](https://github.com/c
 ## Copy:
 
 - [Themes](themes.md)
-- Topic Collections (TODO: put a link on it)
+- [Topic Collections](topic_collections.md)
