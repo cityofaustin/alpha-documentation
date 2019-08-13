@@ -20,7 +20,7 @@ Janis (js) - [static.config.js](https://github.com/cityofaustin/janis/blob/maste
 
 ![theme](themes/url.png)
 
-### Topic collections
+### [Topic collections](topic_collections.md)
 
 ![theme](topic_collections/url.png)
 
