@@ -5,6 +5,7 @@
 ## List of components (Names WIP)
 
 - [Official website header](official_website_header.md) (Name WIP)
+- [Header language selection](header_language_seleciton.md) (Name WIP)
 - Header external links (Name WIP)
 - Site title (Name WIP)
 - Themes (Name WIP)
