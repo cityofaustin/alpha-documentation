@@ -14,6 +14,8 @@
 
 ![url](topic_collections/url.png)
 
+### [Topic Collection Page](topic_collection_page.md)
+
 ## Copy:
 
 ### In Joplin:
