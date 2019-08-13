@@ -8,7 +8,7 @@
 
 ### [Navigation menu](navigation_menu.md)
 
-![nav_menu](themes/nav_menu.png)
+![nav_menu](themes/nav-menu.png)
 
 ### [URLs](urls.md)
 
