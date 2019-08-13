@@ -8,7 +8,6 @@
 - [Header language selection](header_language_selection.md) (Name WIP)
 - [Site title](site_title.md) (Name WIP)
 - Header external links (Name WIP)
-
 - Themes (Name WIP)
 - Homepage banner image (Name WIP)
 - Homepage banner(welcome) text (Name WIP)
