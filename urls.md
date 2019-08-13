@@ -16,13 +16,13 @@
 
 Janis (js) - [static.config.js](https://github.com/cityofaustin/janis/blob/master/static.config.js)
 
-## Copy:
-
 ### [Themes](themes.md)
 
 ![theme](themes/url.png)
 
-### Topic collections (TODO)
+### Topic collections
+
+![theme](topic_collections/url.png)
 
 ### Topics (TODO)
 
