@@ -6,8 +6,9 @@
 
 - [Official website header](official_website_header.md) (Name WIP)
 - [Header language selection](header_language_selection.md) (Name WIP)
+- [Site title](site_title.md) (Name WIP)
 - Header external links (Name WIP)
-- Site title (Name WIP)
+
 - Themes (Name WIP)
 - Homepage banner image (Name WIP)
 - Homepage banner(welcome) text (Name WIP)
