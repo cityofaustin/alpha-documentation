@@ -8,7 +8,7 @@
 
 ![desktop](topic_collection_page/desktop.png)
 
-## Resident facing implementation (desktop):
+## Resident facing implementation (mobile):
 
 ![mobile](topic_collection_page/mobile.png)
 

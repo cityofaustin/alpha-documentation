@@ -2,6 +2,10 @@
 
 ![Box](chickenblock.png)
 
+## List of pages (WIP)
+
+- [Topic Collection Page](topic_collection_page.md)
+
 ## List of components (Names WIP)
 
 - [Official website header](official_website_header.md) (Name WIP)
