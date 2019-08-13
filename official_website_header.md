@@ -30,7 +30,7 @@ Janis (js) - [components/PageSections/HowYouKnowMenu/index.js](https://github.co
 
 ## Copy:
 
-###In Janis:
+### In Janis:
 
 - [definitions.js](https://github.com/cityofaustin/janis/blob/ec7a30a7c066d59c325f8822db30e098f16e09a8/src/js/i18n/definitions.js#L153)
 - [en.json](https://github.com/cityofaustin/janis/blob/ec7a30a7c066d59c325f8822db30e098f16e09a8/src/js/i18n/locales/en.json#L88)
