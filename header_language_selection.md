@@ -14,4 +14,4 @@
 
 ## Resident facing implementation (Code):
 
-Janis (js) - [components/PageSections/HowYouKnowMenu/index.js](https://github.com/cityofaustin/janis/blob/master/src/components/PageSections/HowYouKnowMenu/index.js)
+Janis (js) - [components/PageSections/LanguageSelectBar/index.js](https://github.com/cityofaustin/janis/blob/master/src/components/PageSections/LanguageSelectBar/index.js)
