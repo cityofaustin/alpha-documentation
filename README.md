@@ -9,6 +9,7 @@
 - [Site title](site_title.md) (Name WIP)
 - [Header external links](header_external_links.md) (Name WIP)
 - [Navigation Menu](navigation_menu.md) (Name WIP)
+- [URLs](urls.md)
 - Themes (Name WIP)
 - Homepage banner image (Name WIP)
 - Homepage banner(welcome) text (Name WIP)
