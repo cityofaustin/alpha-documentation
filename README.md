@@ -4,7 +4,7 @@
 
 ## List of components (Names WIP)
 
-- [Official website header text](official_website_header_text.md) (Name WIP)
+- [Official website header text](official_website_header.md) (Name WIP)
 - Official website header body (rich text?) (Name WIP)
 - Header external links (Name WIP)
 - Site title (Name WIP)
