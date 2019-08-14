@@ -14,6 +14,8 @@
 
 ![url](themes/url.png)
 
+### [Navigation footer](navigation_footer.md)
+
 ## Copy:
 
 ### In Joplin DB:

@@ -14,6 +14,8 @@
 
 ![url](topic_collections/url.png)
 
+### [Navigation footer](navigation_footer.md)
+
 ### [Topic Collection Page](topic_collection_page.md)
 
 ## Copy:
