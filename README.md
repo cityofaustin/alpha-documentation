@@ -20,7 +20,7 @@
 - Footer Things
   - [Navigation footer](navigation_footer.md) (Name WIP)
   - [Secondary footer](secondary_footer.md) (Name WIP)
-  - Footer body (rich text?) (Name WIP)
+  - [Blue footer](blue_footer.md) (Name WIP) (Implementation does not match design)
 - Other things:
   - [URLs](urls.md)
 
