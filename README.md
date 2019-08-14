@@ -16,6 +16,7 @@
 - [URLs](urls.md)
 - [Homepage banner](homepage_banner.md) (Name WIP)
 - [Homepage top services](homepage_top_services.md) (Name WIP)
+- [Navigation footer](navigation_footer.md) (Name WIP)
 - City seal image (Name WIP)
 - Homepage secondary footer links (Name WIP)
 - Homepage social media links (Name WIP)
