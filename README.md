@@ -10,6 +10,7 @@
   - [Site title](site_title.md) (Name WIP)
   - [Header external links](header_external_links.md) (Name WIP)
   - [Navigation Menu](navigation_menu.md) (Name WIP)
+  - [Contextual Nav menu](contextual_nav_menu.md) (Name WIP)
 - Main content
   - [Home Page](home_page.md)
     - [Homepage banner](homepage_banner.md) (Name WIP)
