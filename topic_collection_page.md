@@ -20,6 +20,10 @@
 
 ![mobile](topic_collection_page/mobile.png)
 
+## Child components
+
+- [Topic collection page topic block](topic_collection_page_topic_block.md) (Name WIP)
+
 ## Copy:
 
 ### In Joplin:

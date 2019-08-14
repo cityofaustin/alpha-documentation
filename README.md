@@ -16,7 +16,7 @@
     - [Homepage banner](homepage_banner.md) (Name WIP)
     - [Homepage top services](homepage_top_services.md) (Name WIP)
   - [Topic Collection Page](topic_collection_page.md) (Name WIP)
-    - [Topic collection page topic blocks](topic_collection_page_topic_blocks.md) (Name WIP)
+    - [Topic collection page topic block](topic_collection_page_topic_block.md) (Name WIP)
   - [Topic Page](topic_page.md) (Name WIP)
 - [Footer](footer.md) (Name WIP)
   - [Contextual nav footer](contextual_nav_footer.md) (Name WIP)
