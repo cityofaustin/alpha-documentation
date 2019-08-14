@@ -6,23 +6,7 @@
 
 ## Resident facing implementations:
 
-### [Topic collection page](topic_collection_page.md)
-
-#### Desktop (Design)
-
-![topic collection desktop design](topics/xd-topic-collection-desktop.png)
-
-#### Desktop (Implementation)
-
-![topic collection desktop implementation](topics/topic-collection-desktop.png)
-
-#### Mobile (Design)
-
-![topic collection mobile design](topics/xd-topic-collection-mobile.png)
-
-#### Mobile (Implementation)
-
-![topic collection mobile implementation](topics/topic-collection-mobile.png)
+### [Topic collection page topic blocks](topic_collection_page_topic_blocks.md)
 
 ### [URLs](urls.md)
 
