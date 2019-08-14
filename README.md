@@ -2,7 +2,7 @@
 
 ![Box](chickenblock.png)
 
-## Janis (WIP)
+## Janis
 
 - [Header](header.md) (Name WIP)
   - [Official website header](official_website_header.md) (Name WIP)
