@@ -18,6 +18,7 @@
   - [Topic Collection Page](topic_collection_page.md)
   - [Topic Page](topic_page.md)
 - [Footer](footer.md) (Name WIP)
+  - [Contextual nav footer](contextual_nav_footer.md) (Name WIP)
   - [Navigation footer](navigation_footer.md) (Name WIP)
   - [Secondary footer](secondary_footer.md) (Name WIP)
   - [Blue footer](blue_footer.md) (Name WIP) (Implementation does not match design)
