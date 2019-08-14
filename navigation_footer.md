@@ -14,6 +14,12 @@
 
 ## Design (Mobile):
 
+### Collapsed
+
+![xd mobile collapsed](navigation_footer/xd-mobile-collapsed.png)
+
+### Expanded
+
 _todo find this_
 
 ## Copy:

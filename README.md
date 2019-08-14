@@ -8,19 +8,21 @@
 
 ## List of components (Names WIP)
 
-- [Official website header](official_website_header.md) (Name WIP)
-- [Header language selection](header_language_selection.md) (Name WIP)
-- [Site title](site_title.md) (Name WIP)
-- [Header external links](header_external_links.md) (Name WIP)
-- [Navigation Menu](navigation_menu.md) (Name WIP)
-- [URLs](urls.md)
-- [Homepage banner](homepage_banner.md) (Name WIP)
-- [Homepage top services](homepage_top_services.md) (Name WIP)
-- [Navigation footer](navigation_footer.md) (Name WIP)
-- City seal image (Name WIP)
-- Homepage secondary footer links (Name WIP)
-- Homepage social media links (Name WIP)
-- Footer body (rich text?) (Name WIP)
+- Header Things:
+  - [Official website header](official_website_header.md) (Name WIP)
+  - [Header language selection](header_language_selection.md) (Name WIP)
+  - [Site title](site_title.md) (Name WIP)
+  - [Header external links](header_external_links.md) (Name WIP)
+  - [Navigation Menu](navigation_menu.md) (Name WIP)
+- Homepage Things
+  - [Homepage banner](homepage_banner.md) (Name WIP)
+  - [Homepage top services](homepage_top_services.md) (Name WIP)
+- Footer Things
+  - [Navigation footer](navigation_footer.md) (Name WIP)
+  - [Secondary footer](secondary_footer.md) (Name WIP)
+  - Footer body (rich text?) (Name WIP)
+- Other things:
+  - [URLs](urls.md)
 
 ## List of data? (Title WIP)
 
