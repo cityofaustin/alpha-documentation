@@ -4,6 +4,7 @@
 
 ## List of pages (WIP)
 
+- [Home Page](home_page.md)
 - [Topic Collection Page](topic_collection_page.md)
 
 ## List of components (Names WIP)
