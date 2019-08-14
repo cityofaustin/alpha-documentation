@@ -18,6 +18,7 @@
   - [Topic Collection Page](topic_collection_page.md) (Name WIP)
     - [Topic collection page topic block](topic_collection_page_topic_block.md) (Name WIP)
   - [Topic Page](topic_page.md) (Name WIP)
+  - [Service Page](service_page.md) (Name WIP)
 - [Footer](footer.md) (Name WIP)
   - [Contextual nav footer](contextual_nav_footer.md) (Name WIP)
   - [Navigation footer](navigation_footer.md) (Name WIP)
