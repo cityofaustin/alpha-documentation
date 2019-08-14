@@ -21,7 +21,7 @@
 ### Banner image
 
 ![banner image](homepage_banner/banner-image.jpg)
-This lives in the production Joplin, and the image is retrieved in Janis using hardcoded data in [static.config.js](https://github.com/cityofaustin/janis/blob/ec7a30a7c066d59c325f8822db30e098f16e09a8/static.config.js#L71)
+This lives in production Joplin, and the image is retrieved in Janis using hardcoded data in [static.config.js](https://github.com/cityofaustin/janis/blob/ec7a30a7c066d59c325f8822db30e098f16e09a8/static.config.js#L71)
 
 ### Banner text
 
