@@ -8,6 +8,7 @@
   - [Homepage banner](homepage_banner.md) (Name WIP)
   - [Homepage top services](homepage_top_services.md) (Name WIP)
 - [Topic Collection Page](topic_collection_page.md)
+- [Topic Page](topic_page.md)
 
 ## List of shared components (Names WIP)
 
@@ -28,3 +29,4 @@
 
 - [Themes](themes.md) (Name WIP)
 - [Topic Collections](topic_collections.md) (Name WIP)
+- [Topics](topics.md) (Name WIP)

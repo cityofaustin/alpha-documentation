@@ -24,4 +24,8 @@
 
 ### In Joplin:
 
+- Title (on edit page)
+- Description (on edit page)
+- Image (on edit page)
 - [Topic Collections](topic_collections.md)
+- [Topics](topics.md)

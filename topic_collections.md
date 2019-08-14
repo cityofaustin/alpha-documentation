@@ -32,5 +32,5 @@
 
 ### In Joplin (code)
 
-[models/topic_collection.py](https://github.com/cityofaustin/joplin/blob/master/joplin/base/models/topic_collection_page.py)
+[models/topic_collection_page.py](https://github.com/cityofaustin/joplin/blob/master/joplin/base/models/topic_collection_page.py)
 
