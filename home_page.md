@@ -22,6 +22,12 @@
 
 ## Copy:
 
+| | Current location | Proposed future location |
+| --- | --- | --- |
+| Banner image | [Joplin](https://github.com/cityofaustin/alpha-documentation/blob/master/homepage_banner.md#banner-image) with hardcoded refs in Janis | Joplin "Home page" model |
+| Banner text | [Janis](https://github.com/cityofaustin/alpha-documentation/blob/master/homepage_banner.md#banner-text) | Joplin "Home page" model |
+| Top services | [Janis](https://github.com/cityofaustin/alpha-documentation/blob/master/homepage_top_services.md#copy) (header text), [overly-default query for Joplin](https://github.com/cityofaustin/alpha-documentation/blob/master/homepage_top_services.md#services) | Rethink Joplin IA |
+
 _todo, this is in assorted places based on component_
 
 - [Homepage banner](homepage_banner.md) (Name WIP)
