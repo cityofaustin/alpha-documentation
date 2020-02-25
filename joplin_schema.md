@@ -1,4 +1,4 @@
-*last revised, Jan 22, 20*
+*last revised, Feb 25, 2020*
 
 #Schema
 
@@ -117,6 +117,33 @@
   - Related Services [**ForeignKey: service Page**]
   - hours exceptions
 
+## Event Page
+  - Title
+  - Description
+  - date
+  - Event time
+    - start time
+    - end time
+  - Location Blocks
+    - city location
+      - location page (PageChooser Location Page)
+      - additional details
+    - remote location
+      - name
+      - street
+      - unit
+      - city
+      - state
+      - zip
+      - additional details
+  - event is free
+  - fees
+    - fee
+    - fee label
+  - registration url
+  - related departments [**Foreign Key: department page**]
+  - contact [**Foreign Key: contact**]
+  - canceled
 
 The following do not inherit from Janis Base Page
 
